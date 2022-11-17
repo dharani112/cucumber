@@ -9,4 +9,10 @@ public class Sample {
 		System.out.println("vasuki");
 
 	}
+	public void mul() {
+		System.out.println("dhara");
+
+	}
+	
+	
 }

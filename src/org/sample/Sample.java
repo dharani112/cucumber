@@ -9,4 +9,10 @@ public class Sample {
 		System.out.println("vasuki");
 
 	}
+	public void div() {
+		System.out.println("chezhian");
+
+	}
+	
+	
 }

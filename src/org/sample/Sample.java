@@ -13,6 +13,11 @@ public class Sample {
 		System.out.println("dhara");
 
 	}
+	public void modulo() {
+		System.out.println("modulo");
+
+	}
+
 	
 	
 }
